@@ -1,11 +1,18 @@
 GitHub-Exercice
+
 1-Create a folder called learn_git
+
 mkdir learn_gitlearn
+
 2-cd into the learn
+
 cd learn_git_again
+
 3-Create a file called third.txt.
+
 touch third.txt
 4-Initialize an empty git repository.
+
 git init
 4-Add third.txt to the staging area.
 git add third.txt
